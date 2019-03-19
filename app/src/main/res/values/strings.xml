@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MascotasRecycleyView</string>
+    <string name="app_texto_dummy">Dummy</string>
+    <string name="app_titulo">Petagram</string>
+</resources>
