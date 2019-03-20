@@ -1,4 +1,4 @@
-package com.coursera.mascotasrecycleyview.activities;
+package com.coursera.mascotasrecycleyview.layouts;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
